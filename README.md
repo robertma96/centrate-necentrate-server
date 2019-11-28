@@ -2,6 +2,8 @@
 
 NodeJS server for multiplayer game Centrate - Necentrate created with [Express.JS](https://expressjs.com/).
 
+The server code is all located in *app.js*.
+
 TODO: More about how the server works. 
 
 To start the server:
