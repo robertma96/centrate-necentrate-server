@@ -6,8 +6,11 @@ The server code is all located in *app.js*.
 
 TODO: More about how the server works. 
 
+Prerequisites:
+* [Node and npm](https://nodejs.org/en/)
+
 To start the server:
-1. Inside root folder, run *npm install*
+1. Inside root folder, run *npm install* (To install all the necessary packages and dependencies)
 2. Then run *node app.js*
 
 * This will create a server listening to port 4001. 
